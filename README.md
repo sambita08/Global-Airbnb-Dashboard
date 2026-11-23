@@ -85,7 +85,7 @@ The report consists of **three pages**.
 - **Average Price by Room Type (bar chart):** Hotel room, Entire place, Shared room and Private room.
 - **Ratings Heatmap (matrix):** Accuracy, Cleanliness, Check-in, Location and Value for each city, colour-scaled so strong and weak areas stand out instantly.
 - **Interactive selector:** A "Select the Detailed level" button panel (⭐ *Overall Rating* / 🔍 *Detailed Rating*) lets users toggle between a summary and a granular view.
-
+![Review](overview.png)
 ### Page 3 — Reviews, Seasonality & Trust
 
 - **Review Frequency (column chart):** Distribution of how many reviews each reviewer has written.
