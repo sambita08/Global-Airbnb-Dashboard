@@ -76,6 +76,9 @@ The report consists of **three pages**.
   - **Introduction** → **Growth** → **Maturity** → **Decline** → **Reinvention** → **COVID-19**
   - Annotations highlight the *Take-Off Point*, *Pre-COVID New Listings* and the *Increase of Hotel Rooms*.
 
+  ![Global Airbnb-Dashboard](overview.png)
+
+
 ### Page 2 — Market Share, Pricing & Ratings
 
 - **Market Share by City (Pareto chart):** Stacked columns of listings per city split by **Superhost vs. non-Superhost**, with a **cumulative % line** to show market concentration.
