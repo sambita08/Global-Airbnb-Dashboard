@@ -191,9 +191,6 @@ The report consists of **three pages**.
 ## 🚀 How to Use
 
 1. **Clone** the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
 2. Install **Power BI Desktop** (free) from Microsoft.
 3. Open `Airbnb_Dashboard.pbix`.
 4. If prompted, update the data source path to the `data/` folder and click **Refresh**.
